@@ -38,13 +38,15 @@ The analytics model processes three core datasets structured in Microsoft Excel:
 
 ### 🌐 Task 3: Platform Performance & Spend Optimization
 * **Platform Benchmarking:** Compared average engagement rates across platforms (**Twitter: ~6.89%**, **YouTube: ~6.72%**, **Instagram: ~6.46%**).
- <img width="757" height="355" alt="chart1" src="https://github.com/user-attachments/assets/2ae77cae-8ff3-4dc7-bc3e-3daaecd513bf" />
+  <img width="757" height="355" alt="chart1" src="https://github.com/user-attachments/assets/2ae77cae-8ff3-4dc7-bc3e-3daaecd513bf" />
 
 * **Growth Tracking:** Analyzed weekly follower acquisition trends and percentage growth rates across platforms.
 * **Platform Decision:** Validated continuing a **multi-platform strategy** with channel-specific budget reallocations based on performance data.
 
 ### 🏷️ Task 4: Hashtag & Content Strategy
 * **Hashtag Master Index (`Hashtag_Master`):** Ranked top-performing hashtags by post frequency and average engagement rate (`#NowPlaying`: 143 occurrences, ~9.86% ER; `#SoundtrackOfLife`: 109 occurrences, ~9.44% ER).
+  <img width="932" height="433" alt="image" src="https://github.com/user-attachments/assets/2cdaea52-09e3-4baf-8d55-97d0078b1302" />
+
 * **Format-Platform Matrix:** Evaluated optimal combinations, identifying high conversion rates for visual stories and text-based updates.
 
 ### 🎯 Task 5: Campaign Effectiveness & ROI Evaluation
